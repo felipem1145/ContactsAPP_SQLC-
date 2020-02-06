@@ -1,0 +1,10 @@
+C:\Andres\ContactsApp\obj\Debug\ContactsApp.csprojAssemblyReference.cache
+C:\Andres\ContactsApp\obj\Debug\ContactsApp.Form1.resources
+C:\Andres\ContactsApp\obj\Debug\ContactsApp.Properties.Resources.resources
+C:\Andres\ContactsApp\obj\Debug\ContactsApp.csproj.GenerateResource.cache
+C:\Andres\ContactsApp\obj\Debug\ContactsApp.csproj.CoreCompileInputs.cache
+C:\Andres\ContactsApp\bin\Debug\ContactsApp.exe.config
+C:\Andres\ContactsApp\bin\Debug\ContactsApp.exe
+C:\Andres\ContactsApp\bin\Debug\ContactsApp.pdb
+C:\Andres\ContactsApp\obj\Debug\ContactsApp.exe
+C:\Andres\ContactsApp\obj\Debug\ContactsApp.pdb
